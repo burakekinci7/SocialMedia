@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1086830487326",
+    "project_id": "socialmedia-d198d",
+    "storage_bucket": "socialmedia-d198d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086830487326:android:e54400ce27e99a07db0b0f",
+        "android_client_info": {
+          "package_name": "com.flashex.socialmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086830487326-7b4t0mu16hn4pc2lv40ucs464dd7rejm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTrrbKtjK_U_BTdAjC9uuiRvZscr5cYms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086830487326-7b4t0mu16hn4pc2lv40ucs464dd7rejm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
